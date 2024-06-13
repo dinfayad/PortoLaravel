@@ -11,7 +11,7 @@
             <ul class="list">
                 <li><a href="/home">Home</a></li>
                 <li><a href="/Progres">Progress</a></li>
-                <li><a href="/Contact">Contact</a></li>
+                <li><a href="/Contact">Contact</a></li>     
             </ul>
             </nav>
     </header>
